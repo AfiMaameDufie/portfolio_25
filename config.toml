@@ -3,7 +3,7 @@
 title = "Abigail Afi Gbadago"
 theme = "not-much"
 languageCode = "en-us"
-baseURL = "https://example.org/"
+baseURL = "https://abigailgbadago.vercel.app"
 copyright = "Abigail Afi Gbadago © {year}"
 
 [markup]
@@ -58,7 +58,7 @@ lazyLoading = true
     identifier = "tags"
     name = "tags"
     title = "tags"
-    url = "/tags"
+    url = "baseURL/tags"
     weight = 4
 
   [[menu.main]]
