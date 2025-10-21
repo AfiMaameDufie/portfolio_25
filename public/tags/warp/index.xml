@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Warp on Abigail Afi Gbadago</title>
+    <link>http://localhost:1313/tags/warp/</link>
+    <description>Recent content in Warp on Abigail Afi Gbadago</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Sample custom notice © {year}</copyright>
+    <lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/warp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Warp - Redefining Command Line Intelligence.</title>
+      <link>http://localhost:1313/posts/hugo-shortcodes/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hugo-shortcodes/</guid>
+      <description>Today, we will look at Warp — an intelligent Command Line Interface(CLI).</description>
+    </item>
+  </channel>
+</rss>
